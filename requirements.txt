@@ -3,3 +3,5 @@ plotly==4.9.0
 numpy==1.18.1
 matplotlib==3.1.2
 requests==2.25.1
+statsmodels
+scikit-learn
